@@ -3,3 +3,7 @@ audio: main.cpp
 
 clean: 
 	rm -f *.o; rm -f audio
+
+
+
+#aprovado com sucesso
